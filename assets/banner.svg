@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="g"><stop stop-color="#67e8f9"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient><radialGradient id="neb"><stop stop-color="#a78bfa" stop-opacity=".16"/><stop offset="1" stop-color="#0b1020" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="300" rx="18" fill="#0b1020"/><ellipse cx="970" cy="110" rx="300" ry="170" fill="url(#neb)"/>
+<g fill="#cbd5e1" opacity=".6"><circle cx="880" cy="48" r="1.5"/><circle cx="1080" cy="190" r="1"/><circle cx="770" cy="230" r="1.5"/><circle cx="1140" cy="60" r="2"/><circle cx="670" cy="73" r="1"/></g>
+<path d="M55 60h160 M55 60v25 M1145 240H985 M1145 240v-25" fill="none" stroke="url(#g)" stroke-width="2"/>
+<text x="70" y="147" fill="#f1f5f9" font-family="Segoe UI, sans-serif" font-size="48" letter-spacing="5">Thiago Guerra</text>
+<text x="73" y="187" fill="#94a3b8" font-family="monospace" font-size="15" letter-spacing="3">CODE · CREATE · EXPLORE</text>
+<rect x="70" y="213" width="65" height="3" fill="url(#g)"/>
+</svg>
