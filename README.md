@@ -113,12 +113,6 @@ A growing portfolio built through practical coursework:
 
 <sub>Project milestones, without claims of professional experience or certifications.</sub>
 
-## Activity Graph
-
-[![Public GitHub contribution activity, snapshot from October 27, 2026](assets/activity-snapshot.svg)](https://github.com/thiagoguerra-199?tab=overview)
-
-<sub>This chart preserves GitHub's public activity levels as of October 27, 2026. Open it to view the live contribution calendar.</sub>
-
 ## Contribution Snake
 
 <p align="center">
